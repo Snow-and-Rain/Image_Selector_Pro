@@ -102,5 +102,8 @@ Advanced users can easily adjust interface metrics directly inside the script:
 - `columns_count = 5` - 修改每行展示的缩略图数量。
 - `width=1650` - 调整左侧网格区域的初始像素宽度。
 
+## License / 开源协议
 
+This project is licensed under the MIT License - see the LICENSE file for details.
+本项目基于 MIT License 协议开源 - 详情参见 LICENSE 文件。
    
