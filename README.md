@@ -105,5 +105,6 @@ Advanced users can easily adjust interface metrics directly inside the script:
 ## License / 开源协议
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 本项目基于 MIT License 协议开源 - 详情参见 LICENSE 文件。
    
